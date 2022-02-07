@@ -5,8 +5,8 @@
   "author": "Alverd04",
   "license": "MIT",
   "repository": "Alverd04/react-image-gallery-slider",
-  "main": "dist/index.js",
-  "module": "dist/index.modern.js",
+  "main": "build/index.js",
+  "module": "build/index.modern.js",
   "source": "src/index.js",
   "engines": {
     "node": ">=10"
@@ -48,7 +48,7 @@
     "react-scripts": "^3.4.1"
   },
   "files": [
-    "dist"
+    "build"
   ],
   "dependencies": {
     "react-slidy": "^4.3.3"
