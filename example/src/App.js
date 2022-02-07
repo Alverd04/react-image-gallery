@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { ImageGallerySlider } from 'react-image-gallery-slider'
-import 'react-image-gallery-slider/dist/index.css'
+import 'react-image-gallery-slider/build/index.css'
 import { IMAGES } from './config'
 
 const App = () => {
